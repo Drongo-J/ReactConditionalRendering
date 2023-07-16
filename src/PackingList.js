@@ -16,7 +16,7 @@ function Item({name, isPacked}){
 
      // V3
     // return <li className="item"> {name}
-    //     {isPacked && (<img className='icon' src='https://static.vecteezy.com/system/resources/previews/009/362/738/original/tick-icon-accept-approve-sign-design-free-png.png' alt='img'></img>)}
+    //     {isPacked && (<img className='icon' src='https://static.vecteezy.com/system/resources/previews/009/362/738/original/tick-icon-accept-approve-sign-design-free-png.png' alt='img'></img>) : ""}
     // </li>
 }
 
